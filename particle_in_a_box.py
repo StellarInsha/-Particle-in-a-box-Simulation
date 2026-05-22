@@ -1,0 +1,27 @@
+import numpy as np
+import matplotlib.pyplot as plt
+#fixing the lenght of the box so particle can exist only from 0 to L
+L=1
+
+x=np.linspace(0,L,1000)
+#linspace makes start end and number of points in the interval
+
+#Wavefunction with quantum no. and position as input
+def psi(n,x):
+  return np.sqrt(2/L)*np.sin(n*np.pi*x/L)
+
+levels=[1,2,3,4]
+#crteate canvas where width=10 and height=6
+plt.figure(figsize=(10,6))
+
+for n in levels:
+  plt.plot(x, psi(n,x), label=f'n={n}')
+
+plt.title("Wavefunction in an infinite potential well")
+plt.xlabel("Position of x")
+plt.ylabel("Wavefunction of x")
+plt.legend()
+plt.grid()
+
+plt.show()
+
