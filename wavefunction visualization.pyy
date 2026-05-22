@@ -11,7 +11,7 @@ def psi(n,x):
   return np.sqrt(2/L)*np.sin(n*np.pi*x/L)
 
 levels=[1,2,3,4]
-#crteate canvas where width=10 and height=6
+#create canvas where width=10 and height=6 for the graph
 plt.figure(figsize=(10,6))
 
 for n in levels:
