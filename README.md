@@ -85,8 +85,6 @@ Changing these parameters in real time helps to understand how confinement affec
 
 I was going through introductory quantum mechanics using Griffiths, and I wanted to do more than just solve problems with symbols. I wanted to connect the math to visualizations and computations, to really see what's going on and so I built this.
 
-This is one of my first small steps into computational physics and quantum mechanics.
-
 
 
 
