@@ -31,9 +31,9 @@ So, there is quantization of things.
 
     As the quantum number increases:
 
-    * the number of oscillations increases,
-    * more nodes appear,
-    * and the wave becomes more tightly packed.
+    * the number of oscillations increases
+    * more nodes appear
+    * and the wave becomes more tightly packed
 
 
 
