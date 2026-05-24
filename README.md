@@ -108,5 +108,5 @@ I was going through introductory quantum mechanics using Griffiths, and I wanted
 
 
 
-Here, I have made an inbteractive simulation of probability density oft Particle in a Box:
+Here, I have made an inbteractive simulation of probability density of Particle in a Box:
 https://colab.research.google.com/drive/1-cr3iCAvNYUWAiTX3JYprqwq3cJCAaO6?usp=sharing
